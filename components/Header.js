@@ -43,7 +43,7 @@ const Header = () => {
   return (
     <>
       <Head>
-        <title>Business Card NFT</title>
+        <title>NFT Business Card</title>
         <meta name="description" content="Nft Minting Tutorial" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
